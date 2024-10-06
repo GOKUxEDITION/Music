@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>✨ †hê Hêllẞø† - ᴍᴜsɪᴄ 🎶</b>
+  <b>✨ †˹𝙰ɴɴ𝚒 ꭙ ʀσʙσᴛ ˼🎶</b>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ GOKU🇽Edition ⚡</b>
 </h6>
 
 <h3 align="center">
