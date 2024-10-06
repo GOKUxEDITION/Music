@@ -62,11 +62,12 @@ class TEXTS:
     )
     SOURCE = (
         "**Source 📦:**\n\n"
-        "**Note:** \n__» The source code is available on GitHub. You can find the link below.__\n"
-        "__» Every project available under The-HellBot are open-source and free to use and modify to your needs.__\n"
-        "__» Anyone pretending to be the developer of this bot and selling the code, is a scammer.__\n\n"
-        "__» Please consider giving a star to the repository if you liked the project.__\n"
-        "__» Feel free to contact us if you need any help regarding the source code.__\n\n"
+        "**Note:** \n__» The ˹𝙰ɴɴ𝚒 ꭙ ʀσʙσᴛ ˼ ♪ source code is available on . You can find the link below.__\n"
+        "__» ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ Magic </> Loder™ || B𝐭• 𝐄𝐃𝐈𝐓𝐈𝐎𝐍.__\n"
+        "__» ꜱᴍᴀʀᴛ ᴇꜱᴘ » ꜱᴍᴀʀᴛ ᴘᴏᴡᴇʀꜰᴜʟ ʙᴛ 80ᴍ » ɴᴏ ᴄʀᴀꜱʜ ɪꜱꜱᴜᴇ ɴᴏ ʟᴀɢ ɪꜱꜱᴜᴇr.__\n\n"
+        "__» • ᴏᴡɴᴇʀ 😎:- @GOKUxMODZbot™ • ᴍᴀɴᴀɢᴇʀ😁:- @GOKUxEDITION™ *ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ - 2021.__\n"
+        "__» ๏ ᴛʜɪs ɪs ˹𝙰ɴɴ𝚒 ꭙ ʀσʙσᴛ ˼ ♪ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs + ᴄʜᴀɴɴᴇʟs ᴠᴄ.
+.__\n\n"
         "❤️🎶 {0}"
     )
     STATS = (
